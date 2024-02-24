@@ -160,3 +160,46 @@ Name: Anarky rush-glitch (serotonin)
 Author: QxAnarky
 Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=rush(serotonin)
 
+Package: com.xelahot.xelahotagario
+Version: 1.3.4
+Section: Tweaks
+Maintainer: Xelahot
+Architecture: iphoneos-arm64
+Filename: ./debs/com.xelahot.xelahotagario_1.3.4_iphoneos-arm64.deb
+Size: 377476
+MD5sum: 20012c9726d284e1456da679c9f82fad
+SHA1: 70c8322889e67e6802a844abb1c58efb41b404a1
+SHA256: da8af768d70d9e90cdc9dba0be81831f269ad28261b126e396edae2e80d8e52f
+Name: Xelahot (rootless)
+Author: Xelahot
+Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=xelahot(rootless)
+
+Package: com.xelahot.xelahotagario2
+Version: 1.3.4
+Section: Tweaks
+Maintainer: Xelahot
+Architecture: iphoneos-arm64
+Filename: ./debs/com.xelahot.xelahotagario2_1.3.4_iphoneos-arm64.deb
+Size: 370208
+MD5sum: ec7a256314879fafaf30d15755b78731
+SHA1: 10eb7080f7aad2e917b5fecd2ab515124be93f85
+SHA256: a3094ec5ba65e5d54ae10d586f1df4e8284073b34816e0458e682efb7ffbd542
+Name: Xelahot2 (rootless)
+Author: Xelahot
+Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=xelahot2(rootless)
+
+Package: com.xelahot.xelahotagario3
+Version: 1.3.4
+Section: Tweaks
+Maintainer: Xelahot
+Architecture: iphoneos-arm64
+Filename: ./debs/com.xelahot.xelahotagario3_1.3.4_iphoneos-arm64.deb
+Size:  372536
+MD5sum: 8cf8b4b2efa69b8dad7dc4551b1585c3
+SHA1: dd3835ef5f1f712f5ec2c59992f330cf0393ad5f
+SHA256: aff31d58ec6e04ce52c580334fdf942b9600f74ddaef38d80dd89b3fc404dd72
+Name: Xelahot3 (rootless)
+Author: Xelahot
+Depiction: https://sharkagar.github.io/sharkagar/depictions/?p=xelahot3(rootless)
+
+
